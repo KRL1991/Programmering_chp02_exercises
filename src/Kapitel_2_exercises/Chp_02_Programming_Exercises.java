@@ -1,4 +1,4 @@
-package Kapitel_2;
+package Kapitel_2_exercises;
 import java.util.Scanner; //Scanner Import
 
 public class Chp_02_Programming_Exercises {
@@ -15,6 +15,10 @@ public class Chp_02_Programming_Exercises {
         double miles = input.nextDouble();
 
         //Compute miles
+        double MtoKm = 96 * 1.6;
+
+        //Display Result
+        System.out.println(" Number of miles is "+ MtoKm);
 
 
 
