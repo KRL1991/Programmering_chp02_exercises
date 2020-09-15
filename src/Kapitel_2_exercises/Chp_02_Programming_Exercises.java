@@ -15,14 +15,11 @@ public class Chp_02_Programming_Exercises {
         double miles = input.nextDouble();
 
         //Compute miles
-        double MtoKm = 96 * 1.6;
+        double kilometers = miles * 1.6;
 
         //Display Result
-        System.out.println(" Number of miles is "+ MtoKm);
-
-
-
-
+        System.out.println(" Number of miles is "+ kilometers + (" Kilometers "));
 
     }
 }
+

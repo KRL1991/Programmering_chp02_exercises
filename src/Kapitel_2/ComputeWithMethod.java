@@ -7,9 +7,9 @@ public class ComputeWithMethod {
         String beregningsType = "areal";
         System.out.println(" Beregner areal med meotder ");
 
-        System.out.println(" Arealet for radius 2 er "+ beregnArea(2) );
+        System.out.println(" Arealet for radius 1 er "+ beregnArea(2) );
         System.out.println(" Arealet for radius 2 er "+ beregnArea(5) );
-        System.out.println(" Arealet for radius 2 er "+ beregnArea(7) );
+        System.out.println(" Arealet for radius 3 er "+ beregnArea(7) );
 
 
     }
