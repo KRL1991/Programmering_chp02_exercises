@@ -10,10 +10,10 @@ public class Exercise_2_4 {
 
 
         //Promt the user to enter square meters
-        System.out.print(" Ente square meter ");
+        System.out.print(" Enter square meter ");
         double squaremeters = input.nextDouble();
 
-        //Compute area
+        //Compute squaremeters
         double ping  = ( squaremeters * 0.3025);
 
         //Display result

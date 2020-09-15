@@ -16,7 +16,7 @@ public class Exercise_2_3 {
         System.out.print(" Enter meters ");
         double meters = input.nextDouble();
 
-        //Compute area
+        //Compute feet to meters
         double feettometers = ( meters * 3.2786);
 
         //Display result
