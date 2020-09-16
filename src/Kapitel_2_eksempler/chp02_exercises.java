@@ -1,4 +1,4 @@
-package Kapitel_2;
+package Kapitel_2_eksempler;
 
 public class chp02_exercises {
     public static void main(String[] args) {
