@@ -12,8 +12,12 @@ public class Exercise_2_6 {
         //Promt the user to enter a number between 0 and 1000
         System.out.println("Enter number between 0 and 1000 ");
 
+        int num = input.nextInt();
 
         //Compute input
+
+
+
 
 
 
