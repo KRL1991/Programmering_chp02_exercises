@@ -1,4 +1,4 @@
-package Kapitel_2_exercises;
+package Kapitel_2_exercises.Exercise_2_2;
 
 import java.util.Scanner;
 import java.lang.Math;

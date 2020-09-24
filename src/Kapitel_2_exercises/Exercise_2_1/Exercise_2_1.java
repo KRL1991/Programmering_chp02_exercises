@@ -1,7 +1,7 @@
-package Kapitel_2_exercises;
+package Kapitel_2_exercises.Exercise_2_1;
 import java.util.Scanner; //Scanner Import
 
-public class Chp_02_Programming_Exercises {
+public class Exercise_2_1 {
 
     public static void main(String[] args) {
 
