@@ -14,6 +14,7 @@ public class Exercise_2_6 {
 
         int num = input.nextInt();
 
+
         //Compute input
 
 

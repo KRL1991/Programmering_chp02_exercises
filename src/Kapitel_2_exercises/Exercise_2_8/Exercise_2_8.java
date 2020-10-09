@@ -1,29 +1,15 @@
 package Kapitel_2_exercises.Exercise_2_8;
 
+import static Kapitel_2_exercises.Exercise_2_8.Exercise_2_8_Calculations.ShowCurrentTime;
+
 public class Exercise_2_8 {
 
-    public static class ShowCurrentTime {
-        long totalMilliSeconds = System.currentTimeMillis();
+    public static void main(String[] args) {
 
-        long totalSeconds = totalMilliSeconds / 1000;
-
-        long currentSecond = totalSeconds % 60;
-
-        long totalMinutes = totalSeconds / 60;
-
-        long currentMinute = totalMinutes % 60;
-
-        long totalHours = totalMinutes / 60;
-
-        long currentHour = totalHours % 24;
-
-
-
+        ShowCurrentTime();
 
     }
 
-    void ShowCurrentTime() {
-
-    }
 
 }
+

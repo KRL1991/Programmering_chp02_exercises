@@ -7,8 +7,6 @@ public class Exercise_2_9 {
 
     public static void main(String[] args) {
 
-
-
         Scanner input = new Scanner(System.in);
 
         //Promt the user to enter v0,v1 and t
@@ -22,10 +20,10 @@ public class Exercise_2_9 {
         System.out.println(" Please enter t ");
         double t = input.nextDouble();
 
-        double acceleration = ( (v0-v1 ) / t);
+        double acceleration = ( (v1-v0 ) / t);
 
         //Display results
-        System.out.println(" the average acceleration is" + acceleration);
+        System.out.print(" the average acceleration is " + acceleration);
 
 
 
@@ -39,7 +37,7 @@ public class Exercise_2_9 {
         double v1 = input.nextDouble();
         double t = input.nextDouble();
 
-        double acceleration = ( (v0-v1 ) / t);
+        double acceleration = ( (v0-v1 )/ (t));
     }
 
 }
